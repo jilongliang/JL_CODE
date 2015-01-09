@@ -8,7 +8,9 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 /**
  * @说明 从网络获取图片到本地
- * @author 崔素强
+ * @author jilongliang
+ * @weibo:http://weibo.com/jilongliang
+ * @email:jilongliang@sina.com
  * @version 1.0
  * @since
  */
